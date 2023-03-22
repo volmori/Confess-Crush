@@ -1,4 +1,4 @@
-onst CONFIG = {
+const CONFIG = {
     titleWeb: "louise",
     introTitle: 'hello louise',
     introDesc: `I just wanted to tell you that you are the most amazing girl I know. You are perfect, and I can’t imagine a life without you.`,
