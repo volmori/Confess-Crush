@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'I know that   . Love you so much',
     messDesc: 'I’m in love with you. I don’t just like you or think you are hot. I am madly, deeply, indeed in love with you.',
     btnAccept: 'i love you too ry',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+   
 }
